@@ -1,0 +1,12 @@
+{
+    "ByTech_version": "v20240117",
+    "notice": "欢迎使用 ByTech",
+    "least_version": "v20240117",
+    "old_version_warning": "您的版本太低，请立即更新",
+    "ByTech_update_log": [
+        {
+            "version": "v20240117",
+            "info": "1.测试版"
+        }
+    ]
+}
